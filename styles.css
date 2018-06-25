@@ -1,19 +1,5 @@
-/* Footer */
+/*header*/
 
-
-#footer {
-    background: black;
-    color: red;
-    font-family: 'Eater', cursive;
-    text-align: center;
-    border: 1px solid red;
-    font-size: 20px; 
-    list-style-type:none;
-}
-
-ul {
-    list-style-type: none;
-  }
 
 #header {
     font-family: 'Eater', cursive;
@@ -44,6 +30,10 @@ ul {
 }
 
 
+
+
+/* Main section*/
+
 #bla {
     font-family: Eater;
    font-size:30px;
@@ -66,6 +56,9 @@ ul {
 }
 
 
+
+
+/* Footer */
 
 #footer {
     background: black;
