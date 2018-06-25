@@ -1,0 +1,14 @@
+h1 {
+	font-family: Eater;
+}
+
+#main {
+	text-align: center;
+	font-family: Courier New;
+	background-color: black;
+	color: red;
+}
+
+#blurb {
+	padding-bottom: 30px;
+}
