@@ -1,34 +1,26 @@
-#container {
-	display: flex;
-	flex-direction: column;
+/* Footer */
 
+
+#footer {
+    background: black;
+    color: red;
+    font-family: 'Eater', cursive;
+    text-align: center;
+    border: 1px solid red;
+    font-size: 20px; 
+    list-style-type:none;
 }
 
-  h1 {
-	font-family: Eater;
-}
+ul {
+    list-style-type: none;
+  }
 
-#main {
-	text-align: center;
-	font-family: Courier New;
-	background-color: black;
-	color: red;
-}
-
-#blurb {
-	padding-bottom: 30px;
-
-}
-
-/*Header*/
 #header {
     font-family: 'Eater', cursive;
-    font-size: 2vw;
+    font-size: 3vw;
     color:red;
-    /*display:flex;
-    flex-direction: column;
+    display:flex;
     justify-content: flex-end;
-    align-items: flex-end;*/
     height:5vw;
     background-color:lightgray;
     align-items: center;
@@ -36,17 +28,14 @@
     background-repeat: no-repeat;
     background-size:7vw;
     animation:backgroundChange 7s infinite;
-}
-
-div > li {
-	
-	
+    border:1px solid black;
+    width:100%;
 }
 
 .tabs {
- /*   padding-right:3vw;
+    padding-right:3vw;
     position:relative;
-    text-shadow:3px 3px black;*/
+    text-shadow:3px 3px black;
 }
 
 .tabs:hover {
@@ -55,7 +44,28 @@ div > li {
 }
 
 
-/* Footer */
+#bla {
+    font-family: Eater;
+   font-size:30px;
+}
+
+#main {
+    text-align: center;
+    font-family: Courier New;
+    background-color: black;
+    color: red;
+    border:1px solid black;
+    background-color:black;
+}
+
+#blurb {
+    padding-bottom: 30px;
+    width:70%;
+    margin:0 auto;
+
+}
+
+
 
 #footer {
     background: black;
@@ -80,6 +90,3 @@ ul {
     50% {
         background-color: red;
     }
-
-
-
