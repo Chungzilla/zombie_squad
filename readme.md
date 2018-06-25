@@ -41,9 +41,9 @@ Sign up now and start chasing zombies!
 Please read [CONTRIBUTING.md](https://google.com) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
-- Jazmine Chung - Team Leader - Main -  Zombie Squad 
-- Anna Brakowska - Header - Zombie Squad 
-- Noly Franco - Footer - Zombie Squad 
+- Jazmine Chung - Team Leader - Main -  [Zombie Squad](https://github.com/Chungzilla/zombie_squad) 
+- Anna Brakowska - Header - [Zombie Squad](https://github.com/Chungzilla/zombie_squad) 
+- Noly Franco - Footer - [Zombie Squad](https://github.com/Chungzilla/zombie_squad) 
 
 See also the list of contributors who participated in this project.
 
@@ -54,4 +54,5 @@ Acknowledgments
 - The Walking Dead,  Seasons 1 - 3
 - Zombie Land
 - Rob Zombie
+- "CAAAAARLLLL!"
 
