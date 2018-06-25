@@ -38,7 +38,7 @@ Sign up now and start chasing zombies!
 - Google fonts - Menu Font
 
 ## Contributing
-Please read [CONTRIBUTING.md] (https://google.com) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [this] (https://google.com) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 - Jazmine Chung - Team Leader - Main -  Zombie Squad 
@@ -48,7 +48,7 @@ Please read [CONTRIBUTING.md] (https://google.com) for details on our code of co
 See also the list of contributors who participated in this project.
 
 ## License
-This project is licensed under the License to Kill Association - see the [LICENSE.md] (https://google.com) file for details
+This project is licensed under the License to Kill Association - see this [license] (https://google.com) or details
 Acknowledgments
 
 - The Walking Dead,  Seasons 1 - 3
