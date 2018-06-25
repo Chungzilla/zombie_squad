@@ -1,0 +1,16 @@
+/* Footer */
+
+#footer {
+    background: black;
+    color: red;
+    font-family: 'Eater', cursive;
+    text-align: center;
+    border: 1px solid red;
+    font-size: 20px; 
+    list-style-type:none;
+}
+
+ul {
+    list-style-type: none;
+  }
+
