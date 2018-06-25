@@ -38,7 +38,7 @@ Sign up now and start chasing zombies!
 - Google fonts - Menu Font
 
 ## Contributing
-Please read [CONTRIBUTING.md] (https://www.google.com) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md]: https://www.google.com for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 - Jazmine Chung - Team Leader - Main -  Zombie Squad 
