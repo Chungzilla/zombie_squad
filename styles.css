@@ -1,20 +1,22 @@
 
-/* Footer */
 
-#footer {
-    background: black;
-    color: red;
-    font-family: 'Eater', cursive;
-    text-align: center;
-    border: 1px solid red;
-    font-size: 20px; 
-    list-style-type:none;
+  h1 {
+	font-family: Eater;
 }
 
-ul {
-    list-style-type: none;
-  }
+#main {
+	text-align: center;
+	font-family: Courier New;
+	background-color: black;
+	color: red;
+}
 
+#blurb {
+	padding-bottom: 30px;
+
+}
+
+/*Header*/
 #header {
     font-family: 'Eater', cursive;
     font-size: 3vw;
@@ -41,6 +43,25 @@ ul {
     text-shadow:4px 4px gray;
 }
 
+
+/* Footer */
+
+#footer {
+    background: black;
+    color: red;
+    font-family: 'Eater', cursive;
+    text-align: center;
+    border: 1px solid red;
+    font-size: 20px; 
+    list-style-type:none;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+
+
 @keyframes backgroundChange {
     0% 100% {
         background-color:lightgray
@@ -49,19 +70,5 @@ ul {
         background-color: red;
     }
 
-h1 {
-	font-family: Eater;
-}
 
-#main {
-	text-align: center;
-	font-family: Courier New;
-	background-color: black;
-	color: red;
-}
-
-#blurb {
-	padding-bottom: 30px;
-
-}
 
