@@ -1,4 +1,8 @@
+#container {
+	display: flex;
+	flex-direction: column;
 
+}
 
   h1 {
 	font-family: Eater;
@@ -19,10 +23,12 @@
 /*Header*/
 #header {
     font-family: 'Eater', cursive;
-    font-size: 3vw;
+    font-size: 2vw;
     color:red;
-    display:flex;
+    /*display:flex;
+    flex-direction: column;
     justify-content: flex-end;
+    align-items: flex-end;*/
     height:5vw;
     background-color:lightgray;
     align-items: center;
@@ -32,10 +38,15 @@
     animation:backgroundChange 7s infinite;
 }
 
+div > li {
+	
+	
+}
+
 .tabs {
-    padding-right:3vw;
+ /*   padding-right:3vw;
     position:relative;
-    text-shadow:3px 3px black;
+    text-shadow:3px 3px black;*/
 }
 
 .tabs:hover {
