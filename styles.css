@@ -1,4 +1,20 @@
 
+/* Footer */
+
+#footer {
+    background: black;
+    color: red;
+    font-family: 'Eater', cursive;
+    text-align: center;
+    border: 1px solid red;
+    font-size: 20px; 
+    list-style-type:none;
+}
+
+ul {
+    list-style-type: none;
+  }
+
 #header {
     font-family: 'Eater', cursive;
     font-size: 3vw;
@@ -48,3 +64,4 @@ h1 {
 	padding-bottom: 30px;
 
 }
+
