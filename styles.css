@@ -1,6 +1,7 @@
 
 /* Footer */
 
+
 #footer {
     background: black;
     color: red;
@@ -29,6 +30,7 @@ ul {
     background-size:7vw;
     animation:backgroundChange 7s infinite;
     border:1px solid black;
+    width:100%;
 }
 
 .tabs {
@@ -58,7 +60,9 @@ ul {
 }
 
 #blurb {
-	padding-bottom: 30px;
+    padding-bottom: 30px;
+    width:70%;
+    margin:0 auto;
 
 }
 
