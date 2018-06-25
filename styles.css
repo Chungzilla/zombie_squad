@@ -28,6 +28,7 @@ ul {
     background-repeat: no-repeat;
     background-size:7vw;
     animation:backgroundChange 7s infinite;
+    border:1px solid black;
 }
 
 .tabs {
@@ -41,23 +42,19 @@ ul {
     text-shadow:4px 4px gray;
 }
 
-@keyframes backgroundChange {
-    0% 100% {
-        background-color:lightgray
-    }
-    50% {
-        background-color: red;
-    }
 
-h1 {
-	font-family: Eater;
+#bla {
+    font-family: Eater;
+   font-size:30px;
 }
 
 #main {
 	text-align: center;
 	font-family: Courier New;
 	background-color: black;
-	color: red;
+    color: red;
+    border:1px solid black;
+    background-color:black;
 }
 
 #blurb {
@@ -65,3 +62,28 @@ h1 {
 
 }
 
+
+
+#footer {
+    background: black;
+    color: red;
+    font-family: 'Eater', cursive;
+    text-align: center;
+    border: 1px solid red;
+    font-size: 20px; 
+    list-style-type:none;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+
+
+@keyframes backgroundChange {
+    0% 100% {
+        background-color:lightgray
+    }
+    50% {
+        background-color: red;
+    }
