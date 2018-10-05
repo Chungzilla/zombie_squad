@@ -37,8 +37,6 @@ Sign up now and start chasing zombies!
 - Bootstrap - Social media icons
 - Google fonts - Menu Font
 
-## Contributing
-Please read [CONTRIBUTING.md](https://google.com) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 - **Jazmine Chung** - Team Leader - Main -  [Zombie Squad](https://github.com/Chungzilla/zombie_squad) 
@@ -47,9 +45,8 @@ Please read [CONTRIBUTING.md](https://google.com) for details on our code of con
 
 See also the list of contributors who participated in this project.
 
-## License
-This project is licensed under the License to Kill Association - see [LICENSE.md](https://google.com) or details
-Acknowledgments
+
+## Acknowledgments
 
 - The Walking Dead,  Seasons 1 - 3
 - Zombie Land
